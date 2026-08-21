@@ -8,3 +8,4 @@ Concept demo websites built for outreach to local business leads found via [gmap
 - [`new-auto-tech`](./new-auto-tech) — New Auto Tech, Finsbury Park, London
 - [`calis-auto-repair`](./calis-auto-repair) — Cali's Auto Repair & Diagnostics, Bronx, NYC
 - [`yaya-auto-mechanic`](./yaya-auto-mechanic) — Yaya Auto Mechanic Service, Chelsea, NYC
+- [`stpeters-auto`](./stpeters-auto) — St Peter's Auto, St Peters, Sydney
