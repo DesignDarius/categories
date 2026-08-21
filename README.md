@@ -5,3 +5,4 @@ Concept demo websites built for outreach to local business leads found via [gmap
 ## Sites
 
 - [`west-village-auto`](./west-village-auto) — West Village Auto Repair, Greenwich Village, NYC
+- [`new-auto-tech`](./new-auto-tech) — New Auto Tech, Finsbury Park, London
