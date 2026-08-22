@@ -13,3 +13,4 @@ Concept demo websites built for outreach to local business leads found via [gmap
 - [`a1-auto-tech`](./a1-auto-tech) — A1 Auto Tech, Wellington
 - [`quickfix-phone-repairs`](./quickfix-phone-repairs) — Quickfix Phone Repairs, Docklands, Melbourne
 - [`triple-rrr-handyman`](./triple-rrr-handyman) — Triple RRR Handyman Services, Carnegie, Melbourne
+- [`daniele-mosman-handyman`](./daniele-mosman-handyman) — Daniele Mosman Handyman, Mosman, Sydney
