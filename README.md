@@ -17,3 +17,4 @@ Concept demo websites built for outreach to local business leads found via [gmap
 - [`mk-handyman`](./mk-handyman) — MK Handyman & Home Repairs, Richmond, Melbourne
 - [`come2u-iphone-repair`](./come2u-iphone-repair) — iPhone Screen & Battery Repair Brisbane City (come 2 U), Brisbane
 - [`villagetech-wellington`](./villagetech-wellington) — Village Tech Solutions, Te Aro, Wellington
+- [`fixmate-brisbane`](./fixmate-brisbane) — Fix Mate Brisbane, Fortitude Valley, Brisbane
